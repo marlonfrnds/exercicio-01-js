@@ -12,4 +12,5 @@ Nesse desafio, você irá solicitar ao usuário que ele insira dois números e, 
 * Resto da divisão dos dois números
 
 * ## Tela de resultado
-![preview](.github/preview.gif)
+![github-preview](https://github.com/marlonfrnds/exercicio-01-js/assets/115473116/0e5d5c8d-7cbe-4a16-8004-0193c59034b4)
+
