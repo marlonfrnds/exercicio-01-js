@@ -10,3 +10,6 @@ Nesse desafio, você irá solicitar ao usuário que ele insira dois números e, 
 * Multiplicação dos dois números
 * Divisão dos dois números
 * Resto da divisão dos dois números
+
+* ## Tela de resultado
+![preview](.github/preview.gif)
